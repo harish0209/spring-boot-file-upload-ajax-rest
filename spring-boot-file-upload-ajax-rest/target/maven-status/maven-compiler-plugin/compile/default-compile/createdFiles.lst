@@ -1,0 +1,6 @@
+com\test\model\UploadModel.class
+com\test\controller\RestUploadController.class
+com\test\exception\CustomError.class
+com\test\SpringBootWebApplication.class
+com\test\controller\IndexController.class
+com\test\exception\RestGlobalExceptionHandler.class
